@@ -1,17 +1,1 @@
-{
-  "6709737146": [
-    {
-      "orderId": "TRX-mcoty2fb-W1H9SVO9",
-      "koin": 15000,
-      "messageId": 14728,
-      "timestamp": 1751634486910
-    },
-    {
-      "orderId": "TRX-mcoty2fb-W1H9SVO9",
-      "koin": 15000,
-      "messageId": 14728,
-      "adminMessageId": 14729,
-      "timestamp": 1751634489084
-    }
-  ]
-}
+{}
