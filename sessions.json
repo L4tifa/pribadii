@@ -5,5 +5,12 @@
       "messageId": 15062,
       "timestamp": 1751644192064
     }
+  ],
+  "6709737146": [
+    {
+      "state": "awaiting_custom_deposit",
+      "messageId": 15065,
+      "timestamp": 1751644220607
+    }
   ]
 }
