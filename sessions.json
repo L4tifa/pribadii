@@ -80,6 +80,11 @@
       "awaitingCustomDeposit": false,
       "timestamp": 1751731498214,
       "adminMessageId": 15427
+    },
+    {
+      "orderId": "TRX-mcqfq6ps-04265HHD",
+      "awaitingCustomDeposit": true,
+      "timestamp": 1751731535067
     }
   ]
 }
