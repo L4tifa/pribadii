@@ -12,12 +12,6 @@
       "awaitingCustomDeposit": true,
       "timestamp": 1751727101953,
       "adminMessageId": 15296
-    },
-    {
-      "orderId": "TRX-mcqd41ve-RRYPMRN5",
-      "koin": 15000,
-      "messageId": 15299,
-      "timestamp": 1751727144630
     }
   ]
 }
