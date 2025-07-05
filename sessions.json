@@ -25,12 +25,6 @@
       "awaitingCustomDeposit": false,
       "timestamp": 1751724868645,
       "adminMessageId": 15196
-    },
-    {
-      "orderId": "TRX-mcqbstyj-6J0POBK3",
-      "koin": 15000,
-      "messageId": 15202,
-      "timestamp": 1751724941384
     }
   ]
 }
