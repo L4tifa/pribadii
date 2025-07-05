@@ -8,11 +8,6 @@
     },
     {
       "orderId": "TRX-mcqboq21-BECQWD3T",
-      "awaitingCustomDeposit": true,
-      "timestamp": 1751724748572
-    },
-    {
-      "orderId": "TRX-mcqboq21-BECQWD3T",
       "koin": 1000,
       "messageId": 15184,
       "awaitingCustomDeposit": false,
