@@ -11,6 +11,12 @@
       "messageId": 15457,
       "awaitingCustomDeposit": false,
       "timestamp": 1751731733593
+    },
+    {
+      "orderId": "TRX-mcqfu96w-9DN24H18",
+      "awaitingCustomDeposit": true,
+      "timestamp": 1751731735471,
+      "adminMessageId": 15458
     }
   ]
 }
