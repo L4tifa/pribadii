@@ -46,6 +46,12 @@
       "isPackagePurchase": false,
       "timestamp": 1751726177818,
       "adminMessageId": 15268
+    },
+    {
+      "orderId": "TRX-mcqck90j-M19YWXFL",
+      "awaitingCustomDeposit": true,
+      "isPackagePurchase": false,
+      "timestamp": 1751726219289
     }
   ]
 }
