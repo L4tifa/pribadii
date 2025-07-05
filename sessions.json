@@ -2,13 +2,6 @@
   "6709737146": [
     {
       "orderId": "TRX-mcqdbs2a-27C16CNC",
-      "koin": 5000,
-      "messageId": 15310,
-      "awaitingCustomDeposit": false,
-      "timestamp": 1751727509445
-    },
-    {
-      "orderId": "TRX-mcqdbs2a-27C16CNC",
       "awaitingCustomDeposit": true,
       "timestamp": 1751727511494,
       "adminMessageId": 15311
