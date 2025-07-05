@@ -5,6 +5,11 @@
       "koin": 0,
       "messageId": 15361,
       "timestamp": 1751730645192
+    },
+    {
+      "orderId": "TRX-mcqfdgi7-9OYGLJ9K",
+      "awaitingCustomDeposit": true,
+      "timestamp": 1751730941408
     }
   ]
 }
