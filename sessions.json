@@ -8,11 +8,6 @@
     },
     {
       "orderId": "TRX-mcqfdgi7-9OYGLJ9K",
-      "awaitingCustomDeposit": true,
-      "timestamp": 1751730941408
-    },
-    {
-      "orderId": "TRX-mcqfdgi7-9OYGLJ9K",
       "koin": 5000,
       "messageId": 15374,
       "awaitingCustomDeposit": false,
