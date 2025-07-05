@@ -14,6 +14,13 @@
       "awaitingCustomDeposit": false,
       "isPackagePurchase": false,
       "timestamp": 1751726012034
+    },
+    {
+      "orderId": "TRX-mcqcfn8s-PD833STP",
+      "awaitingCustomDeposit": true,
+      "isPackagePurchase": false,
+      "timestamp": 1751726014245,
+      "adminMessageId": 15250
     }
   ]
 }
