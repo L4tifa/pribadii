@@ -25,6 +25,11 @@
       "awaitingCustomDeposit": false,
       "timestamp": 1751731071280,
       "adminMessageId": 15383
+    },
+    {
+      "orderId": "TRX-mcqfi4wj-4EY9HBCC",
+      "awaitingCustomDeposit": true,
+      "timestamp": 1751731160791
     }
   ]
 }
