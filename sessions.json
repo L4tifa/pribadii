@@ -1,12 +1,6 @@
 {
   "6709737146": [
     {
-      "orderId": "TRX-mcqcgk99-1UFQYXYH",
-      "awaitingCustomDeposit": true,
-      "isPackagePurchase": true,
-      "timestamp": 1751726047205
-    },
-    {
       "orderId": "TRX-mcqcfn8s-PD833STP",
       "koin": 1500000,
       "days": 0,
