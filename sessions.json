@@ -30,6 +30,12 @@
       "messageId": 15513,
       "awaitingCustomDeposit": false,
       "timestamp": 1751732743508
+    },
+    {
+      "orderId": "TRX-mcqgavow-3DDKZAVR",
+      "awaitingCustomDeposit": true,
+      "timestamp": 1751732746207,
+      "adminMessageId": 15514
     }
   ]
 }
