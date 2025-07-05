@@ -1,11 +1,6 @@
 {
   "6709737146": [
     {
-      "orderId": "TRX-mcqbr5d7-R7M5OI2B",
-      "awaitingCustomDeposit": true,
-      "timestamp": 1751724861504
-    },
-    {
       "orderId": "TRX-mcqboq21-BECQWD3T",
       "koin": 150000,
       "messageId": 15195,
