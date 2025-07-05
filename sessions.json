@@ -68,6 +68,12 @@
       "isPackagePurchase": true,
       "timestamp": 1751726230775,
       "adminMessageId": 15274
+    },
+    {
+      "orderId": "TRX-mcqcl7k6-8OUYIG3F",
+      "awaitingCustomDeposit": true,
+      "isPackagePurchase": false,
+      "timestamp": 1751726264046
     }
   ]
 }
