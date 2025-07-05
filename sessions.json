@@ -29,6 +29,12 @@
       "messageId": 15502,
       "awaitingCustomDeposit": false,
       "timestamp": 1751732512633
+    },
+    {
+      "orderId": "TRX-mcqg3ht8-VKVT5JHH",
+      "awaitingCustomDeposit": true,
+      "timestamp": 1751732514636,
+      "adminMessageId": 15503
     }
   ]
 }
