@@ -2,12 +2,6 @@
   "6709737146": [
     {
       "orderId": "TRX-mcqcfn8s-PD833STP",
-      "awaitingCustomDeposit": true,
-      "isPackagePurchase": false,
-      "timestamp": 1751726004668
-    },
-    {
-      "orderId": "TRX-mcqcfn8s-PD833STP",
       "koin": 5000,
       "days": 0,
       "messageId": 15249,
