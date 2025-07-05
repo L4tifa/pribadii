@@ -92,6 +92,12 @@
       "messageId": 15435,
       "awaitingCustomDeposit": false,
       "timestamp": 1751731540582
+    },
+    {
+      "orderId": "TRX-mcqfk805-ZB847RJL",
+      "awaitingCustomDeposit": true,
+      "timestamp": 1751731542377,
+      "adminMessageId": 15436
     }
   ]
 }
