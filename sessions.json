@@ -10,7 +10,8 @@
     {
       "adminMessageId": 15860,
       "status": "pending",
-      "timestamp": 1752063408289
+      "timestamp": 1752063516314,
+      "awaitingCustomDeposit": true
     },
     {
       "orderId": "TRX-mcvxck48-ZH782GIF",
