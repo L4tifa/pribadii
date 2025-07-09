@@ -3,6 +3,10 @@
     {
       "adminMessageId": 15626,
       "timestamp": 1752056304515
+    },
+    {
+      "awaitingCustomDeposit": true,
+      "timestamp": 1752056321192
     }
   ]
 }
