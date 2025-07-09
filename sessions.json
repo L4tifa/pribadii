@@ -8,12 +8,6 @@
       "timestamp": 1752063405854
     },
     {
-      "adminMessageId": 15860,
-      "status": "pending",
-      "timestamp": 1752063516314,
-      "awaitingCustomDeposit": true
-    },
-    {
       "orderId": "TRX-mcvxck48-ZH782GIF",
       "koin": 150000,
       "messageId": 15866,
