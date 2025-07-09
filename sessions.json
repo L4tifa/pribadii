@@ -6,6 +6,11 @@
       "messageId": 15887,
       "status": "confirmed",
       "timestamp": 1752063631126
+    },
+    {
+      "awaitingCustomDeposit": true,
+      "status": "pending",
+      "timestamp": 1752063676525
     }
   ]
 }
