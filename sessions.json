@@ -1,13 +1,6 @@
 {
   "6709737146": [
     {
-      "orderId": "TRX-ORDERKOUTA-meguqqgc-GO8WVYSZ-18082025,",
-      "koin": 150000,
-      "messageId": 19186,
-      "status": "pending",
-      "timestamp": 1755505659478
-    },
-    {
       "awaitingCustomDeposit": true,
       "status": "pending",
       "timestamp": 1755505668000
