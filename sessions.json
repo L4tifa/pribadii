@@ -7,14 +7,6 @@
       "status": "pending",
       "timestamp": 1757747614319,
       "adminMessageId": 24185
-    },
-    {
-      "orderId": "TRX-ORDERKOUTA-mfhxjn4r-E125DDGF-13092025,",
-      "koin": 65000,
-      "days": 90,
-      "messageId": 24186,
-      "status": "pending",
-      "timestamp": 1757747616357
     }
   ]
 }
