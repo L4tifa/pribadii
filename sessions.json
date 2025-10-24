@@ -1,16 +1,1 @@
-{
-  "6709737146": [
-    {
-      "orderId": "TRX-ORDERKOUTA-mh4niq10-TUQV34GS-24102025,",
-      "days": 7,
-      "packageName": "1minggu",
-      "messageId": 93,
-      "status": "confirmed",
-      "timestamp": 1761298285213,
-      "isBotRegistration": true,
-      "adminMessageId": 94,
-      "awaitingBotToken": true,
-      "expiryDate": "2025-10-31"
-    }
-  ]
-}
+{}
