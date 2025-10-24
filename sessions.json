@@ -6,8 +6,9 @@
       "packageName": "1minggu",
       "messageId": 175,
       "status": "pending",
-      "timestamp": 1761300663799,
-      "isBotRegistration": true
+      "timestamp": 1761300666466,
+      "isBotRegistration": true,
+      "adminMessageId": 176
     }
   ]
 }
