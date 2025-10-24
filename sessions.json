@@ -1,14 +1,1 @@
-{
-  "6709737146": [
-    {
-      "orderId": "TRX-ORDERKOUTA-mh4nqb8h-1S3B6JAW-24102025,",
-      "days": 7,
-      "packageName": "1minggu",
-      "messageId": 120,
-      "status": "pending",
-      "timestamp": 1761298638241,
-      "isBotRegistration": true,
-      "adminMessageId": 121
-    }
-  ]
-}
+{}
