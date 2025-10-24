@@ -1,16 +1,1 @@
-{
-  "6709737146": [
-    {
-      "orderId": "TRX-ORDERKOUTA-mh4peinj-CH60QR94-24102025,",
-      "days": 7,
-      "packageName": "1minggu",
-      "messageId": 206,
-      "status": "confirmed",
-      "timestamp": 1761301448237,
-      "isBotRegistration": true,
-      "adminMessageId": 207,
-      "awaitingBotToken": true,
-      "expiryDate": "2025-10-31"
-    }
-  ]
-}
+{}
