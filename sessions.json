@@ -5,10 +5,12 @@
       "days": 7,
       "packageName": "1minggu",
       "messageId": 296,
-      "status": "pending",
+      "status": "confirmed",
       "timestamp": 1761304953539,
       "isBotRegistration": true,
-      "adminMessageId": 298
+      "adminMessageId": 298,
+      "awaitingBotToken": true,
+      "expiryDate": "2025-10-31"
     }
   ]
 }
