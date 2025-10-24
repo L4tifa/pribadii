@@ -1,16 +1,1 @@
-{
-  "6709737146": [
-    {
-      "orderId": "TRX-ORDERKOUTA-mh4povin-36O5YMI0-24102025,",
-      "days": 7,
-      "packageName": "1minggu",
-      "messageId": 216,
-      "status": "confirmed",
-      "timestamp": 1761301934090,
-      "isBotRegistration": true,
-      "adminMessageId": 217,
-      "awaitingBotToken": true,
-      "expiryDate": "2025-10-31"
-    }
-  ]
-}
+{}
