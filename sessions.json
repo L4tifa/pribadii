@@ -1,16 +1,1 @@
-{
-  "6709737146": [
-    {
-      "orderId": "TRX-ORDERKOUTA-mhdl2prl-EICHJCDC-30102025,",
-      "days": 7,
-      "packageName": "1minggu",
-      "messageId": 8,
-      "status": "confirmed",
-      "timestamp": 1761838375018,
-      "isBotRegistration": true,
-      "adminMessageId": 9,
-      "awaitingBotToken": true,
-      "expiryDate": "2025-11-06"
-    }
-  ]
-}
+{}
