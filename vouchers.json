@@ -2,7 +2,9 @@
   "IKANTOMAT55": {
     "discount": 100,
     "target": "all",
-    "used": false,
-    "createdAt": "2025-10-31T07:38:56.064Z"
+    "used": true,
+    "createdAt": "2025-10-31T07:38:56.064Z",
+    "claimedBy": 6709737146,
+    "claimedAt": "2025-10-31T07:46:36.550Z"
   }
 }
