@@ -4,14 +4,6 @@
       "awaitingCustomDeposit": true,
       "status": "pending",
       "timestamp": 1766127162039
-    },
-    {
-      "orderId": "TRX-ORDERKOUTA-mjcij2ej-LD9HTDQ3-19122025,",
-      "koin": 50000,
-      "messageId": 1495,
-      "status": "pending",
-      "timestamp": 1766127195027,
-      "adminMessageId": 1496
     }
   ]
 }
